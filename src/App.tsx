@@ -50,7 +50,7 @@ const Header = () => (
       <div>
         <h1 className="font-bold text-lg tracking-tight text-white">FIRECRAWL <span className="text-[var(--accent)]">CORE</span></h1>
         <div className="flex items-center gap-2">
-          <span className="text-[9px] font-mono text-[var(--ink-muted)] uppercase tracking-widest">Neural Ingestion Engine</span>
+          <span className="text-[9px] font-mono text-[var(--ink-muted)] uppercase tracking-widest">Neural Ingestion Engine?</span>
           <span className="w-1 h-1 bg-white/20 rounded-full" />
           <span className="text-[9px] font-mono text-[var(--accent)] uppercase tracking-widest">v1.2.0</span>
         </div>
