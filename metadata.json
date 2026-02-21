@@ -1,0 +1,5 @@
+{
+  "name": "Firecrawl Clone",
+  "description": "A high-performance web crawler and scraper that converts websites into clean Markdown and structured data for LLMs.",
+  "requestFramePermissions": []
+}
